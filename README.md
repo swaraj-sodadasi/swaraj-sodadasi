@@ -38,7 +38,7 @@ Have a question about me or Computer Science? Feel free to ask! 🙋‍♂️
 
 - [LinkedIn](https://www.linkedin.com/in/swaraj-sodadasi-3b5362262/)
 
-I say never be complete, I say stop being perfect, I say let's evolve.Let the chips fall where they may.
+I say never be complete, I say stop being perfect, I say let's evolve. Let the chips fall where they may.
 
 <!-- 
   # Hi there! 👋 I'm John Doe
