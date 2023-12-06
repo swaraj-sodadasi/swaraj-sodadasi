@@ -28,13 +28,11 @@ and building real world projects being main motive in the recent times.
 
 ## Got Questions?
 
-Have a question about my projects or anything else? Feel free to ask! 🙋‍♂️
+Have a question about me or Computer Science? Feel free to ask! 🙋‍♂️
 
 - 💬  Let us make some discussions about the future of coding 
 - 🤔  What do you think of Computer Science?
 - ❓Fell free to make a conversation with me 💬
-
-I'm here to learn, share, and engage in meaningful conversations. Don't hesitate to reach out! 🚀
 
 ## Let's Connect
 
