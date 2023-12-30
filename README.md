@@ -20,7 +20,7 @@ and building real world projects being main motive in the recent times.
 
 ## About Me
 
-- 🔰 Learning  Advanced DSA in C++ and gaining in depth knowldege on Databases using SQL and NOSQL.
+- 🔰 Learning  Advanced DSA in JAVA and gaining in depth knowldege on Databases using SQL and NOSQL.
 - 👉 Had an experience on Azure for cloud computing.
 - 🎯 Practicing and solving coding problems.
 - 🤝 I'm looking forward to collaborate on Open Source Projects which could help the tech community and to build real world projects.
