@@ -20,15 +20,15 @@ and building real world projects being main motive in the recent times.
 
 ## About Me
 
-- 🔰 Learning  Advanced DSA in JAVA and gaining in depth knowldege on Databases using SQL and NOSQL.
-- 👉 Had an experience on Azure for cloud computing.
+- 🔰 Learning programming languages that includes Python, Java for competetive coding and gaining in depth knowldege on Databases by working with SQL and utilizing tools like Mysql and MongoDb.
+- 👉 Had an experience on Microsoft Azure utilizing cloud services.
 - 🎯 Practicing and solving coding problems.
 - 🤝 I'm looking forward to collaborate on Open Source Projects which could help the tech community and to build real world projects.
 
 
 ## Got Questions?
 
-Have a question about me or Computer Science? Feel free to ask! 🙋‍♂️
+Have a question about me ? Feel free to ask! 🙋‍♂️
 
 - 💬  Let us make some discussions about the future of coding 
 - 🤔  What do you think of Computer Science?
