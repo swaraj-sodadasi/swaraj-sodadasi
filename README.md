@@ -20,7 +20,7 @@ and building real world projects being main motive in the recent times.
 
 ## About Me
 
-- 🔰 Learning programming languages that includes Python, Java for competetive coding and gaining in depth knowldege on Databases by working with SQL and utilizing tools like Mysql and MongoDb.
+- 🔰 Learning programming languages that includes Python, Java for competetive coding and gaining in depth knowldege on Databases by working with SQL and utilizing tools like Mysql and MongoDb Cloud.
 - 👉 Had an experience on Microsoft Azure utilizing cloud services.
 - 🎯 Practicing and solving coding problems.
 - 🤝 I'm looking forward to collaborate on Open Source Projects which could help the tech community and to build real world projects.
