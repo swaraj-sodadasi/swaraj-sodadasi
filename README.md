@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate 💻 Computer Science undergradua
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/swaraj-sodadasi-3b5362262/)
-- [stack**overflow**](https://stackoverflow.com/users/21460816/swarajstackoverflowacc)
+- [Stack Overflow](https://stackoverflow.com/users/21460816/swarajstackoverflowacc)
 
 ## 💬 Got Questions?
 
